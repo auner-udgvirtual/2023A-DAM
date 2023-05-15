@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910302126121",
+    "project_id": "a-dam-3-7",
+    "storage_bucket": "a-dam-3-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910302126121:android:5672882ba5cc7839b17c38",
+        "android_client_info": {
+          "package_name": "com.company.incorporando_basededatos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910302126121-2aqktg1m24bs1mlsb4bpm4vlp6c15u0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFitbi1ylqFB90naxA9-T3Hum2je3Oqu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910302126121-2aqktg1m24bs1mlsb4bpm4vlp6c15u0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
